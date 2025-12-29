@@ -1,3 +1,9 @@
+# ----------------------------------------
+# Project : QR-GENERATOR
+# Author  : beratcodes
+# Date    : 2025-12-29
+# ----------------------------------------
+
 import tkinter as tk
 from tkinter import filedialog
 import pyqrcode
